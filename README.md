@@ -1,4 +1,4 @@
-# Gruvbox Colotheme for Netbeans
+# Gruvbox Colortheme for Netbeans
 
 To install the theme, download "Gruvbox.zip" and import it via Tools -> Options -> Fonts & Colors -> Import.
 
